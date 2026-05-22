@@ -44,9 +44,9 @@ The main objective of the analysis is to identify:
 ---
 
 ## Dashboard Preview
-(Add screenshot here)
+![Dashboard Preview](customerchurndataanalysis.PNG)
 
 ---
 
 ## Power BI Dashboard
-(Add Power BI link here)
+[View Dashboard](https://app.powerbi.com/links/prH6g8ukTO?ctid=a43125d1-0f89-4fa4-99ab-5474c89fdd42&pbi_source=linkShare)
